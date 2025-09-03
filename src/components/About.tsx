@@ -59,7 +59,7 @@ const About = () => {
             </span>
           </h2>
           <p className="text-xl text-slate-400 max-w-3xl mx-auto leading-relaxed">
-            Your Origin Story
+            My Origin Story
           </p>
         </motion.div>
 
