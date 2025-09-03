@@ -41,9 +41,9 @@ const Hero = () => {
           transition={{ duration: 0.3, ease: "easeOut" }}
           className="mb-8"
         >
-          <h1 className="text-5xl md:text-7xl font-light text-white mb-6 leading-tight">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-light text-white mb-6 leading-tight">
             Hi, I'm{' '}
-            <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent font-semibold">
+            <span className="bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent font-semibold block sm:inline">
               Ahmedraza Alam
             </span>{' '}
             👋
